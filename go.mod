@@ -1,4 +1,4 @@
-module github.com/etnz/boolgebra
+module github.com/msales/boolgebra
 
 go 1.12
 
